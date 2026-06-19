@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nguetterprido.github.io/indexweb-aiyouxi-com-cn/sitemap.xml
